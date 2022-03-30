@@ -5,6 +5,7 @@ description: The following course notes were written by Dr. Roger Mark. These se
   each set of notes are listed at the end of the file.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/939ee5debbb5d5de4ebf86ebd010b0b7_cardio_mech.pdf
 file_type: application/pdf
+parent_uid: 39a50931-cbb3-6472-ddf0-8e7bd972e31e
 resourcetype: Document
 title: cardio_mech.pdf
 uid: 939ee5de-bbb5-d5de-4ebf-86ebd010b0b7

@@ -13,6 +13,7 @@ description: 'Handout containing an overview of the Cardiovascular Simulator. Th
   Athena student computing network.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/ca97693e23faa23d5fe5b5787438e2bb_cvsim.pdf
 file_type: application/pdf
+parent_uid: 62712a2b-7130-20f0-4a5f-8c201feb219f
 resourcetype: Document
 title: cvsim.pdf
 uid: ca97693e-23fa-a23d-5fe5-b5787438e2bb
